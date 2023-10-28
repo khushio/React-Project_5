@@ -1,0 +1,57 @@
+/* App Container */
+.app {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  max-width: 400px;
+  margin: 0 auto;
+ 
+}
+
+/* Heading Style */
+h1 {
+  color: #333;
+}
+
+/* Input Container Style */
+.input-container {
+  background: #f9f9f9;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 20px 0;
+}
+
+label {
+  display: block;
+  margin-bottom: 10px;
+}
+
+input {
+  width: 100%;
+  padding: 5px;
+  border: 1px solid black;
+  border-radius: 5px;
+  outline: none;
+}
+
+button {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+/* Age Result Style */
+.age-result {
+  color: #333;
+  font-size:large;
+  margin-top: 10px;
+}
